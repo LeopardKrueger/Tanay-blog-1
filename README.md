@@ -1,4 +1,4 @@
-# Tanay-blog-1
+# Letters of Thought
 
-Blog collaboration
+work in progress
 
