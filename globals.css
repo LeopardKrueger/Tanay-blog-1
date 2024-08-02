@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #000000; /* Global background color */
+  color: #ffffff; /* Global text color */
+  margin: 0;
+}
+
+.red-text {
+  color: #DE0000; /* Custom red text color */
+}
